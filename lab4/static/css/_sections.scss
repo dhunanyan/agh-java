@@ -1,0 +1,35 @@
+section {
+  h2 {
+    background-color: #f1f1f1;
+    color: #303030;
+    font-size: 24px;
+    font-weight: 500;
+    transition: all 350ms ease-out;
+    border: 3px solid #303030;
+    border-radius: 10px;
+    padding: 5px;
+
+    &:hover {
+      color: #f1f1f1;
+      background-color: #303030;
+      cursor: pointer;
+      border: 3px solid #f1f1f1;
+    }
+  }
+
+  p {
+    padding: 5px;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+  }
+
+  li {
+    margin: 0 0 0 20px;
+    padding: 2.5px 0;
+    list-style-type: disc;
+  }
+}

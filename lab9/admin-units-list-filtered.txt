@@ -1,0 +1,24 @@
+Chech³o (minXY[(19,456427);(50,331988)], maxXY[(19,560750);(50,391347)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 26,262800
+	--->density: -1,000000
+
+Chech³owo (minXY[(22,563504);(52,504175)], maxXY[(22,597481);(52,534230)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,281250
+	--->density: -1,000000
+
+Kolonia Chechelska (minXY[(21,724389);(51,386143)], maxXY[(21,738466);(51,402748)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,215910
+	--->density: -1,000000
+
+Chech³y (minXY[(21,729127);(51,401266)], maxXY[(21,775372);(51,430569)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,636690
+	--->density: -1,000000
+

@@ -1,0 +1,30 @@
+Bêb³o (minXY[(19,763045);(50,168608)], maxXY[(19,813158);(50,197447)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,745140
+	--->density: -1,000000
+
+Kolonia Po³udniowa (minXY[(19,779664);(50,168608)], maxXY[(19,796626);(50,182092)])
+	--->admin_level: 11
+	--->population: -1,000000
+	--->area: 0,836679
+	--->density: -1,000000
+
+Kolonia Wschodnia (minXY[(19,782791);(50,175007)], maxXY[(19,813158);(50,191667)])
+	--->admin_level: 11
+	--->population: -1,000000
+	--->area: 2,066670
+	--->density: -1,000000
+
+Kolonia Zachodnia (minXY[(19,766744);(50,178926)], maxXY[(19,794089);(50,194036)])
+	--->admin_level: 11
+	--->population: -1,000000
+	--->area: 1,962280
+	--->density: -1,000000
+
+Bêdkowice (minXY[(19,721401);(50,157705)], maxXY[(19,773614);(50,185283)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,991010
+	--->density: -1,000000
+

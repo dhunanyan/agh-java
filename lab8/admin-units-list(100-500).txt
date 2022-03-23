@@ -1,0 +1,3000 @@
+Krzeszówka (minXY[(20,186551);(50,446019)], maxXY[(20,232006);(50,469970)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,952390
+	--->density: -1,000000
+
+Kolbark (minXY[(19,625806);(50,341186)], maxXY[(19,670884);(50,371893)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,307730
+	--->density: -1,000000
+
+Krzywop³oty (minXY[(19,607657);(50,383644)], maxXY[(19,640053);(50,409954)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,995960
+	--->density: -1,000000
+
+Kwaœniów Dolny (minXY[(19,573391);(50,369132)], maxXY[(19,613585);(50,387190)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,086250
+	--->density: -1,000000
+
+Ksi¹¿ Ma³y (minXY[(20,185930);(50,430710)], maxXY[(20,218596);(50,452717)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,555480
+	--->density: -1,000000
+
+Kwaœniów Górny (minXY[(19,574736);(50,376860)], maxXY[(19,632083);(50,407339)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,525340
+	--->density: -1,000000
+
+Rodaki (minXY[(19,486575);(50,378125)], maxXY[(19,550260);(50,420304)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 12,471200
+	--->density: -1,000000
+
+Bogucin Ma³y (minXY[(19,558315);(50,301467)], maxXY[(19,585611);(50,318305)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,943440
+	--->density: -1,000000
+
+Ryczówek (minXY[(19,539902);(50,358419)], maxXY[(19,581697);(50,414742)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 11,633200
+	--->density: -1,000000
+
+Glanów (minXY[(19,781652);(50,297938)], maxXY[(19,840808);(50,328849)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,502530
+	--->density: -1,000000
+
+Imbramowice (minXY[(19,828113);(50,288040)], maxXY[(19,880110);(50,321151)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,992900
+	--->density: -1,000000
+
+gmina Trzyci¹¿ (minXY[(19,671741);(50,249342)], maxXY[(19,920941);(50,345710)])
+	--->admin_level: 7
+	--->population: 7104,000000
+	--->area: 95,865600
+	--->density: 74,103800
+
+Œciborzyce (minXY[(19,873299);(50,265540)], maxXY[(19,920941);(50,310011)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,825270
+	--->density: -1,000000
+
+Trzyci¹¿ (minXY[(19,757800);(50,297065)], maxXY[(19,797121);(50,320583)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,504690
+	--->density: -1,000000
+
+Zadro¿e (minXY[(19,749726);(50,269102)], maxXY[(19,808621);(50,308242)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,798850
+	--->density: -1,000000
+
+Zagórowa (minXY[(19,794901);(50,286856)], maxXY[(19,854780);(50,307299)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,977910
+	--->density: -1,000000
+
+gmina Olkusz (minXY[(19,498256);(50,189001)], maxXY[(19,686027);(50,346081)])
+	--->admin_level: 7
+	--->population: 50016,000000
+	--->area: 150,797000
+	--->density: 331,678000
+
+Braciejówka (minXY[(19,643366);(50,288741)], maxXY[(19,679636);(50,336958)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,005120
+	--->density: -1,000000
+
+Gorenice (minXY[(19,573986);(50,189001)], maxXY[(19,648210);(50,224895)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 12,366500
+	--->density: -1,000000
+
+Kosmolów (minXY[(19,634965);(50,253668)], maxXY[(19,686027);(50,297124)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 10,053100
+	--->density: -1,000000
+
+Olkusz (minXY[(19,516549);(50,257301)], maxXY[(19,607011);(50,314144)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 25,648200
+	--->density: -1,000000
+
+Pazurek (minXY[(19,636886);(50,325621)], maxXY[(19,659735);(50,344421)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,643360
+	--->density: -1,000000
+
+Rabsztyn (minXY[(19,578073);(50,286345)], maxXY[(19,609344);(50,320297)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,489270
+	--->density: -1,000000
+
+Sieniczno (minXY[(19,598793);(50,258565)], maxXY[(19,621572);(50,274693)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,440470
+	--->density: -1,000000
+
+Zederman (minXY[(19,631592);(50,230962)], maxXY[(19,684535);(50,259632)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,972520
+	--->density: -1,000000
+
+Zimnodó³ (minXY[(19,605239);(50,222287)], maxXY[(19,647050);(50,273280)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,696240
+	--->density: -1,000000
+
+¯urada (minXY[(19,498256);(50,221042)], maxXY[(19,564825);(50,274695)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 18,157500
+	--->density: -1,000000
+
+Chrz¹stowice (minXY[(19,653559);(50,331413)], maxXY[(19,685573);(50,364209)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,689150
+	--->density: -1,000000
+
+Go³aczewy (minXY[(19,676847);(50,330133)], maxXY[(19,744265);(50,375555)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 14,765800
+	--->density: -1,000000
+
+Je¿ówka (minXY[(19,804843);(50,394809)], maxXY[(19,852638);(50,439100)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 11,268700
+	--->density: -1,000000
+
+Z³otoria (minXY[(23,246872);(53,270696)], maxXY[(23,262036);(53,281440)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 0,662737
+	--->density: -1,000000
+
+K¹piele Wielkie (minXY[(19,698835);(50,405062)], maxXY[(19,746771);(50,444323)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 8,452680
+	--->density: -1,000000
+
+K¹pio³ki (minXY[(19,702680);(50,419550)], maxXY[(19,724778);(50,444891)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,028090
+	--->density: -1,000000
+
+Lgota Wielka (minXY[(19,810521);(50,351501)], maxXY[(19,854504);(50,373238)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,069940
+	--->density: -1,000000
+
+gmina Wasilków (minXY[(23,081335);(53,166587)], maxXY[(23,336513);(53,278239)])
+	--->admin_level: 7
+	--->population: 15184,000000
+	--->area: 127,139000
+	--->density: 119,428000
+
+Lgota Wolbromska (minXY[(19,688008);(50,378070)], maxXY[(19,745917);(50,389944)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,914820
+	--->density: -1,000000
+
+??obzów (minXY[(19,741319);(50,391831)], maxXY[(19,810218);(50,421705)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,253010
+	--->density: -1,000000
+
+Miechówka (minXY[(19,744845);(50,417678)], maxXY[(19,765965);(50,442851)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,498440
+	--->density: -1,000000
+
+Podlesice Drugie (minXY[(19,818816);(50,388752)], maxXY[(19,851446);(50,399702)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,469100
+	--->density: -1,000000
+
+Porêba Dzier¿na (minXY[(19,747349);(50,414087)], maxXY[(19,810757);(50,444892)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,664830
+	--->density: -1,000000
+
+Porêba Górna (minXY[(19,781548);(50,341151)], maxXY[(19,817144);(50,363338)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,313260
+	--->density: -1,000000
+
+Biórków Ma³y (minXY[(20,160254);(50,147090)], maxXY[(20,195689);(50,162442)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,906450
+	--->density: -1,000000
+
+Strzegowa (minXY[(19,664800);(50,408708)], maxXY[(19,712174);(50,449721)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,775170
+	--->density: -1,000000
+
+Wolbrom (minXY[(19,738805);(50,362833)], maxXY[(19,805194);(50,396891)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 10,674700
+	--->density: -1,000000
+
+Zasêpiec (minXY[(19,762161);(50,341048)], maxXY[(19,789005);(50,363432)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,521550
+	--->density: -1,000000
+
+Biórków Wielki (minXY[(20,154119);(50,152756)], maxXY[(20,197900);(50,176857)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,950070
+	--->density: -1,000000
+
+Budziejowice (minXY[(20,153868);(50,227013)], maxXY[(20,170585);(50,238384)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 0,899431
+	--->density: -1,000000
+
+Chor¹¿yce (minXY[(20,214406);(50,198779)], maxXY[(20,248175);(50,216114)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,196650
+	--->density: -1,000000
+
+Katrynka (minXY[(23,143593);(53,226462)], maxXY[(23,156631);(53,237093)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 0,663388
+	--->density: -1,000000
+
+Dalewice (minXY[(20,194796);(50,214020)], maxXY[(20,246808);(50,240376)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,688430
+	--->density: -1,000000
+
+Glew (minXY[(20,234469);(50,112348)], maxXY[(20,266848);(50,129276)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,928860
+	--->density: -1,000000
+
+Nowodworce (minXY[(23,201662);(53,166587)], maxXY[(23,247349);(53,197578)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,238640
+	--->density: -1,000000
+
+Glewiec (minXY[(20,218835);(50,113012)], maxXY[(20,246302);(50,139725)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,823410
+	--->density: -1,000000
+
+Gnatowice (minXY[(20,164523);(50,186773)], maxXY[(20,195486);(50,204378)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,812030
+	--->density: -1,000000
+
+Górka Jakliñska (minXY[(20,242179);(50,158355)], maxXY[(20,279271);(50,174692)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,189270
+	--->density: -1,000000
+
+Karwin (minXY[(20,244592);(50,130383)], maxXY[(20,282668);(50,162944)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,091360
+	--->density: -1,000000
+
+??yszkowice (minXY[(20,189245);(50,158781)], maxXY[(20,218817);(50,184667)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,254230
+	--->density: -1,000000
+
+Muniaczkowice (minXY[(20,188007);(50,207307)], maxXY[(20,227739);(50,233765)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,363470
+	--->density: -1,000000
+
+Niegardów (minXY[(20,159034);(50,208287)], maxXY[(20,199686);(50,225307)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,014860
+	--->density: -1,000000
+
+Niegardów-Kolonia (minXY[(20,155685);(50,201415)], maxXY[(20,191503);(50,218028)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,323390
+	--->density: -1,000000
+
+Piotrkowice Ma³e (minXY[(20,221440);(50,178342)], maxXY[(20,259310);(50,201515)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,578540
+	--->density: -1,000000
+
+Piotrkowice Wielkie (minXY[(20,163772);(50,219148)], maxXY[(20,205857);(50,245187)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,397590
+	--->density: -1,000000
+
+Polekarcice (minXY[(20,160769);(50,174824)], maxXY[(20,204853);(50,192778)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,477440
+	--->density: -1,000000
+
+Pos¹dza (minXY[(20,211434);(50,161742)], maxXY[(20,258536);(50,180373)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,652920
+	--->density: -1,000000
+
+Przes³awice (minXY[(20,187772);(50,188707)], maxXY[(20,231568);(50,211284)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,228460
+	--->density: -1,000000
+
+Rzêdowice (minXY[(20,224307);(50,209095)], maxXY[(20,260233);(50,228598)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,284480
+	--->density: -1,000000
+
+Szarbia (minXY[(20,238370);(50,121231)], maxXY[(20,266309);(50,143340)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,547330
+	--->density: -1,000000
+
+W¹sów (minXY[(20,201047);(50,125519)], maxXY[(20,223571);(50,139365)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,514320
+	--->density: -1,000000
+
+Wierzbno (minXY[(20,222612);(50,138486)], maxXY[(20,254065);(50,166868)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,906700
+	--->density: -1,000000
+
+Wronin (minXY[(20,180283);(50,132533)], maxXY[(20,222220);(50,162629)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,507680
+	--->density: -1,000000
+
+Wroniec (minXY[(20,214981);(50,135222)], maxXY[(20,234502);(50,156670)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,707460
+	--->density: -1,000000
+
+Zielona (minXY[(20,145573);(50,154308)], maxXY[(20,170775);(50,168674)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,289690
+	--->density: -1,000000
+
+Dolany (minXY[(20,474902);(50,136341)], maxXY[(20,494283);(50,157032)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,483850
+	--->density: -1,000000
+
+Jaksice (minXY[(20,484337);(50,133860)], maxXY[(20,530798);(50,156784)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,204400
+	--->density: -1,000000
+
+Ksi¹¿nice Ma³e (minXY[(20,515759);(50,165547)], maxXY[(20,550196);(50,191406)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,421660
+	--->density: -1,000000
+
+Ksi¹¿nice Wielkie (minXY[(20,496410);(50,146832)], maxXY[(20,543067);(50,174948)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,258280
+	--->density: -1,000000
+
+??apszów (minXY[(20,532634);(50,174948)], maxXY[(20,573379);(50,192016)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,081760
+	--->density: -1,000000
+
+Morsko (minXY[(20,529546);(50,140175)], maxXY[(20,569972);(50,166295)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,959980
+	--->density: -1,000000
+
+Przemyków (minXY[(20,613223);(50,172607)], maxXY[(20,661190);(50,202289)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,882730
+	--->density: -1,000000
+
+Witów (minXY[(20,561077);(50,139723)], maxXY[(20,597775);(50,163391)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,616260
+	--->density: -1,000000
+
+Rachwa³owice (minXY[(20,581701);(50,180967)], maxXY[(20,624047);(50,204698)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,832840
+	--->density: -1,000000
+
+Soko³owice (minXY[(20,581519);(50,151469)], maxXY[(20,614545);(50,176854)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,295360
+	--->density: -1,000000
+
+W³ostowice (minXY[(20,545297);(50,162160)], maxXY[(20,574485);(50,182164)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,219430
+	--->density: -1,000000
+
+Grêbocin (minXY[(20,325481);(50,148917)], maxXY[(20,368372);(50,168073)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,460320
+	--->density: -1,000000
+
+Gruszów (minXY[(20,398549);(50,150228)], maxXY[(20,440360);(50,173109)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,115620
+	--->density: -1,000000
+
+Mniszów-Kolonia (minXY[(20,364972);(50,166954)], maxXY[(20,388739);(50,179061)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,686030
+	--->density: -1,000000
+
+Falniów-Wysio³ek (minXY[(19,939759);(50,347327)], maxXY[(19,970710);(50,357302)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,396700
+	--->density: -1,000000
+
+Hebdów (minXY[(20,376198);(50,121858)], maxXY[(20,433769);(50,153431)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,539530
+	--->density: -1,000000
+
+Majkowice (minXY[(20,465718);(50,155889)], maxXY[(20,486394);(50,177022)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,374220
+	--->density: -1,000000
+
+Mniszów (minXY[(20,364451);(50,149354)], maxXY[(20,400081);(50,167548)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,340940
+	--->density: -1,000000
+
+Podleœna Wola (minXY[(19,981158);(50,405361)], maxXY[(20,013915);(50,427530)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,500040
+	--->density: -1,000000
+
+Nowe Brzesko (minXY[(20,337948);(50,113530)], maxXY[(20,388290);(50,152524)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,263740
+	--->density: -1,000000
+
+P³awowice (minXY[(20,387956);(50,159639)], maxXY[(20,430085);(50,184223)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,586630
+	--->density: -1,000000
+
+Rudno Dolne (minXY[(20,318648);(50,121762)], maxXY[(20,356213);(50,147639)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,113920
+	--->density: -1,000000
+
+Szpitary (minXY[(20,353021);(50,141261)], maxXY[(20,371870);(50,158291)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,514770
+	--->density: -1,000000
+
+Œmi³owice (minXY[(20,422530);(50,132078)], maxXY[(20,464642);(50,160545)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,893540
+	--->density: -1,000000
+
+Czuszów (minXY[(20,311791);(50,231392)], maxXY[(20,357623);(50,263721)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,292610
+	--->density: -1,000000
+
+Ibramowice (minXY[(20,256213);(50,245797)], maxXY[(20,283268);(50,262207)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,151690
+	--->density: -1,000000
+
+Lelowice-Kolonia (minXY[(20,252998);(50,274878)], maxXY[(20,284915);(50,295648)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,072010
+	--->density: -1,000000
+
+Podleœna Wola Górna (minXY[(20,013690);(50,405487)], maxXY[(20,041992);(50,421048)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,329870
+	--->density: -1,000000
+
+??aszów (minXY[(20,329052);(50,275889)], maxXY[(20,362398);(50,290506)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,100600
+	--->density: -1,000000
+
+Nadzów (minXY[(20,300853);(50,247929)], maxXY[(20,340428);(50,277753)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,014060
+	--->density: -1,000000
+
+Niezwojowice (minXY[(20,305611);(50,298482)], maxXY[(20,333039);(50,318688)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,375460
+	--->density: -1,000000
+
+Koczanów (minXY[(20,469233);(50,174870)], maxXY[(20,500125);(50,200791)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,948140
+	--->density: -1,000000
+
+Pa³ecznica (minXY[(20,278371);(50,274061)], maxXY[(20,324886);(50,304964)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,972270
+	--->density: -1,000000
+
+Pamiêcice (minXY[(20,262435);(50,290996)], maxXY[(20,306535);(50,315564)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,090180
+	--->density: -1,000000
+
+Solcza (minXY[(20,292623);(50,305213)], maxXY[(20,328451);(50,322942)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,459950
+	--->density: -1,000000
+
+Sudo³ek (minXY[(20,283906);(50,259595)], maxXY[(20,311309);(50,279380)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,322760
+	--->density: -1,000000
+
+gmina Proszowice (minXY[(20,243138);(50,154175)], maxXY[(20,500125);(50,257741)])
+	--->admin_level: 7
+	--->population: 16372,000000
+	--->area: 100,049000
+	--->density: 163,641000
+
+Bobin (minXY[(20,426425);(50,169611)], maxXY[(20,469055);(50,199211)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,066770
+	--->density: -1,000000
+
+Ciborowice (minXY[(20,354743);(50,177153)], maxXY[(20,370130);(50,194730)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,644740
+	--->density: -1,000000
+
+Czajêczyce (minXY[(20,456143);(50,170806)], maxXY[(20,476102);(50,192116)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,429620
+	--->density: -1,000000
+
+Proszowice (minXY[(20,268386);(50,175109)], maxXY[(20,317555);(50,202399)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,333250
+	--->density: -1,000000
+
+Gniazdowice (minXY[(20,243138);(50,198625)], maxXY[(20,277141);(50,214799)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,668040
+	--->density: -1,000000
+
+Szczytniki-Kolonia (minXY[(20,279426);(50,233267)], maxXY[(20,316947);(50,247790)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,247770
+	--->density: -1,000000
+
+Szklana (minXY[(20,245491);(50,177486)], maxXY[(20,265255);(50,187406)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 0,754008
+	--->density: -1,000000
+
+Górka Stogniowska (minXY[(20,331617);(50,182159)], maxXY[(20,356306);(50,199117)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,866570
+	--->density: -1,000000
+
+Jazdowiczki (minXY[(20,250146);(50,182313)], maxXY[(20,270511);(50,199915)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,682280
+	--->density: -1,000000
+
+Kadzice (minXY[(20,338798);(50,236244)], maxXY[(20,376209);(50,257741)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,985650
+	--->density: -1,000000
+
+??aganów (minXY[(20,250534);(50,158493)], maxXY[(20,290821);(50,184158)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,232490
+	--->density: -1,000000
+
+Makocice (minXY[(20,253718);(50,205735)], maxXY[(20,286512);(50,229053)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,368420
+	--->density: -1,000000
+
+Mys³awczyce (minXY[(20,396880);(50,175834)], maxXY[(20,422073);(50,192673)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,025280
+	--->density: -1,000000
+
+Posi³ów (minXY[(20,346750);(50,204945)], maxXY[(20,384724);(50,216643)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,858240
+	--->density: -1,000000
+
+Stogniowice (minXY[(20,315143);(50,184711)], maxXY[(20,348848);(50,212297)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,674460
+	--->density: -1,000000
+
+Wolwanowice (minXY[(20,417604);(50,175332)], maxXY[(20,441153);(50,197291)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,965260
+	--->density: -1,000000
+
+¯êbocin (minXY[(20,286114);(50,154175)], maxXY[(20,335947);(50,177447)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,417020
+	--->density: -1,000000
+
+B³ogocice (minXY[(20,198775);(50,233411)], maxXY[(20,251196);(50,252569)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,660640
+	--->density: -1,000000
+
+gmina Radziemice (minXY[(20,126202);(50,219323)], maxXY[(20,280874);(50,305273)])
+	--->admin_level: 7
+	--->population: 3457,000000
+	--->area: 57,967600
+	--->density: 59,636800
+
+Kaczowice (minXY[(20,226432);(50,278193)], maxXY[(20,245608);(50,297663)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,290680
+	--->density: -1,000000
+
+Lelowice (minXY[(20,237885);(50,273756)], maxXY[(20,267304);(50,291119)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,867350
+	--->density: -1,000000
+
+Radziemice (minXY[(20,190807);(50,244594)], maxXY[(20,257209);(50,272872)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,848410
+	--->density: -1,000000
+
+Obra¿ejowice (minXY[(20,128445);(50,258922)], maxXY[(20,177548);(50,275823)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,985590
+	--->density: -1,000000
+
+Przemêczanki (minXY[(20,196171);(50,268994)], maxXY[(20,236584);(50,284075)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,502370
+	--->density: -1,000000
+
+Przemêczany (minXY[(20,216574);(50,255181)], maxXY[(20,263808);(50,279071)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,500760
+	--->density: -1,000000
+
+Smoniowice (minXY[(20,199540);(50,281953)], maxXY[(20,231012);(50,301233)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,428330
+	--->density: -1,000000
+
+Wola Gruszowska (minXY[(20,255048);(50,256975)], maxXY[(20,263053);(50,262246)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 0,234124
+	--->density: -1,000000
+
+Wrocimowice (minXY[(20,225856);(50,289524)], maxXY[(20,267168);(50,305273)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,084740
+	--->density: -1,000000
+
+Podmiejska Wola (minXY[(19,969962);(50,360192)], maxXY[(20,007061);(50,380373)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,611050
+	--->density: -1,000000
+
+Zielenice (minXY[(20,173173);(50,271740)], maxXY[(20,203277);(50,299664)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,180100
+	--->density: -1,000000
+
+Charsznica (minXY[(19,921135);(50,395020)], maxXY[(19,954913);(50,425353)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,544590
+	--->density: -1,000000
+
+Chodowiec (minXY[(19,962767);(50,397953)], maxXY[(19,982647);(50,410375)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,023820
+	--->density: -1,000000
+
+powiat miechowski (minXY[(19,825327);(50,258936)], maxXY[(20,339248);(50,520498)])
+	--->admin_level: 6
+	--->population: 49966,000000
+	--->area: 676,291000
+	--->density: 73,882400
+
+gmina Charsznica (minXY[(19,835657);(50,354573)], maxXY[(20,001703);(50,457206)])
+	--->admin_level: 7
+	--->population: 7669,000000
+	--->area: 78,595000
+	--->density: 97,576100
+
+Chodów (minXY[(19,946401);(50,372574)], maxXY[(19,982321);(50,400160)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,534130
+	--->density: -1,000000
+
+Ciszowice (minXY[(19,924002);(50,372545)], maxXY[(19,952912);(50,393267)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,484440
+	--->density: -1,000000
+
+D¹browiec (minXY[(19,872540);(50,391947)], maxXY[(19,910682);(50,404986)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,424250
+	--->density: -1,000000
+
+Jelcza (minXY[(19,850286);(50,427040)], maxXY[(19,910423);(50,453679)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 8,294430
+	--->density: -1,000000
+
+Miechów-Charsznica (minXY[(19,923531);(50,388008)], maxXY[(19,975979);(50,406228)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,892940
+	--->density: -1,000000
+
+Uniejów-Kolonia (minXY[(19,946826);(50,398462)], maxXY[(19,976150);(50,425130)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,742240
+	--->density: -1,000000
+
+Podlesice (minXY[(19,835657);(50,389222)], maxXY[(19,879627);(50,407004)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,811400
+	--->density: -1,000000
+
+Swojczany (minXY[(19,854450);(50,397708)], maxXY[(19,928100);(50,419244)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,679060
+	--->density: -1,000000
+
+Szarkówka (minXY[(19,897737);(50,381731)], maxXY[(19,924424);(50,399639)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,840350
+	--->density: -1,000000
+
+Tczyca (minXY[(19,855874);(50,405404)], maxXY[(19,934366);(50,435850)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,036550
+	--->density: -1,000000
+
+Uniejów-Parcela (minXY[(19,921487);(50,415180)], maxXY[(19,963749);(50,430483)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,695570
+	--->density: -1,000000
+
+Uniejów-Rêdziny (minXY[(19,943165);(50,414455)], maxXY[(20,001703);(50,444698)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,676520
+	--->density: -1,000000
+
+Adamowice (minXY[(19,847086);(50,369393)], maxXY[(19,861239);(50,392975)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,532000
+	--->density: -1,000000
+
+gmina Go³cza (minXY[(19,825327);(50,258936)], maxXY[(20,022639);(50,395187)])
+	--->admin_level: 7
+	--->population: 6208,000000
+	--->area: 89,883100
+	--->density: 69,067500
+
+Chobêdza (minXY[(19,875631);(50,327160)], maxXY[(19,903780);(50,346115)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,323860
+	--->density: -1,000000
+
+Czaple Ma³e (minXY[(19,927976);(50,280884)], maxXY[(19,971942);(50,313781)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,252460
+	--->density: -1,000000
+
+Czaple Wielkie (minXY[(19,960853);(50,279885)], maxXY[(20,022639);(50,311340)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,670060
+	--->density: -1,000000
+
+Go³cza (minXY[(19,909988);(50,317303)], maxXY[(19,942106);(50,349610)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,857320
+	--->density: -1,000000
+
+Laski Dworskie (minXY[(19,919930);(50,258936)], maxXY[(19,941466);(50,272957)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,239540
+	--->density: -1,000000
+
+Mostek (minXY[(19,825327);(50,322794)], maxXY[(19,865804);(50,352551)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,313680
+	--->density: -1,000000
+
+Wielki Dó³ (minXY[(20,023541);(50,305944)], maxXY[(20,039912);(50,321323)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,144940
+	--->density: -1,000000
+
+Rze¿uœnia (minXY[(19,926585);(50,329584)], maxXY[(19,980956);(50,350323)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,357700
+	--->density: -1,000000
+
+Trzebienice (minXY[(19,835406);(50,341618)], maxXY[(19,879203);(50,367676)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,227030
+	--->density: -1,000000
+
+G³ogowiany-Wrzosy (minXY[(20,075903);(50,453550)], maxXY[(20,098517);(50,474962)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,116770
+	--->density: -1,000000
+
+Ulina Ma³a (minXY[(19,892159);(50,304916)], maxXY[(19,928157);(50,328067)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,200850
+	--->density: -1,000000
+
+Ulina Wielka (minXY[(19,843896);(50,308657)], maxXY[(19,899475);(50,329255)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,085360
+	--->density: -1,000000
+
+Wielkanoc (minXY[(19,900975);(50,323895)], maxXY[(19,924390);(50,351339)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,165250
+	--->density: -1,000000
+
+Wysocice (minXY[(19,900574);(50,270378)], maxXY[(19,949690);(50,295895)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,835800
+	--->density: -1,000000
+
+¯arnowica (minXY[(19,907266);(50,290838)], maxXY[(19,940572);(50,313865)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,081420
+	--->density: -1,000000
+
+Bogdanów (minXY[(20,031900);(50,448899)], maxXY[(20,063796);(50,469513)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,606810
+	--->density: -1,000000
+
+Konaszówka (minXY[(20,104714);(50,440390)], maxXY[(20,143878);(50,468284)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,851970
+	--->density: -1,000000
+
+gmina Koz³ów (minXY[(19,892080);(50,428278)], maxXY[(20,113974);(50,520498)])
+	--->admin_level: 7
+	--->population: 4734,000000
+	--->area: 85,750000
+	--->density: 55,207000
+
+Bryzdzyn (minXY[(20,044675);(50,459127)], maxXY[(20,084358);(50,497530)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,946190
+	--->density: -1,000000
+
+Przysieka (minXY[(19,974871);(50,452264)], maxXY[(20,013872);(50,486943)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,394130
+	--->density: -1,000000
+
+Antolka (minXY[(20,085381);(50,392835)], maxXY[(20,131628);(50,408929)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,098110
+	--->density: -1,000000
+
+G³ogowiany-Stara Wieœ (minXY[(20,090182);(50,441844)], maxXY[(20,128600);(50,473469)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,590570
+	--->density: -1,000000
+
+gmina Ksi¹¿ Wielki (minXY[(19,990202);(50,391885)], maxXY[(20,273166);(50,495720)])
+	--->admin_level: 7
+	--->population: 5258,000000
+	--->area: 137,831000
+	--->density: 38,148300
+
+Cisia Wola (minXY[(20,094497);(50,404275)], maxXY[(20,140877);(50,428661)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,305900
+	--->density: -1,000000
+
+Cisie (minXY[(20,028696);(50,391885)], maxXY[(20,111226);(50,427124)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 13,586300
+	--->density: -1,000000
+
+Czêstoszowice (minXY[(20,138565);(50,419130)], maxXY[(20,184567);(50,443073)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,068590
+	--->density: -1,000000
+
+Ksi¹¿ Ma³y-Kolonia (minXY[(20,205787);(50,418454)], maxXY[(20,242941);(50,452850)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,516480
+	--->density: -1,000000
+
+Ksi¹¿ Wielki (minXY[(20,114729);(50,426082)], maxXY[(20,165196);(50,461444)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,617060
+	--->density: -1,000000
+
+Mianocice (minXY[(20,088027);(50,418824)], maxXY[(20,131402);(50,442083)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,490880
+	--->density: -1,000000
+
+Moczyd³o (minXY[(20,102314);(50,442346)], maxXY[(20,225759);(50,495720)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 23,019700
+	--->density: -1,000000
+
+Tocho³ów (minXY[(20,110647);(50,394500)], maxXY[(20,156249);(50,414747)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,289540
+	--->density: -1,000000
+
+Trzonów (minXY[(20,234256);(50,412747)], maxXY[(20,266771);(50,443621)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,504880
+	--->density: -1,000000
+
+Zaryszyn (minXY[(20,210143);(50,441393)], maxXY[(20,273166);(50,485548)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 12,023500
+	--->density: -1,000000
+
+Brzuchania (minXY[(20,072706);(50,374093)], maxXY[(20,128444);(50,394447)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,412030
+	--->density: -1,000000
+
+Falniów (minXY[(19,938107);(50,351240)], maxXY[(19,989851);(50,376225)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,525050
+	--->density: -1,000000
+
+gmina Miechów (minXY[(19,938107);(50,290005)], maxXY[(20,205142);(50,427530)])
+	--->admin_level: 7
+	--->population: 19911,000000
+	--->area: 148,352000
+	--->density: 134,215000
+
+Bukowska Wola (minXY[(20,057909);(50,343707)], maxXY[(20,100907);(50,375790)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,144060
+	--->density: -1,000000
+
+Celiny Przes³awickie (minXY[(19,964335);(50,310635)], maxXY[(20,004399);(50,333559)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,637330
+	--->density: -1,000000
+
+Dziewiêcio³y (minXY[(20,162902);(50,290005)], maxXY[(20,205142);(50,313050)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,585140
+	--->density: -1,000000
+
+Kalina-Lisiniec (minXY[(20,121081);(50,341953)], maxXY[(20,161720);(50,369337)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,374170
+	--->density: -1,000000
+
+Kalina Ma³a (minXY[(20,087873);(50,353923)], maxXY[(20,139221);(50,376496)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,938750
+	--->density: -1,000000
+
+Kalina-Rêdziny (minXY[(20,096070);(50,343080)], maxXY[(20,135443);(50,358720)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,535500
+	--->density: -1,000000
+
+Nasiechowice (minXY[(20,109517);(50,295817)], maxXY[(20,167590);(50,327765)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,938560
+	--->density: -1,000000
+
+Poja³owice (minXY[(20,086140);(50,299853)], maxXY[(20,127748);(50,348974)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,495920
+	--->density: -1,000000
+
+Pstroszyce Drugie (minXY[(19,969144);(50,397075)], maxXY[(20,020302);(50,416574)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,909540
+	--->density: -1,000000
+
+Pstroszyce Pierwsze (minXY[(19,982110);(50,382739)], maxXY[(20,018306);(50,404565)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,386900
+	--->density: -1,000000
+
+Biodry (minXY[(22,433007);(53,324474)], maxXY[(22,471269);(53,332622)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,452720
+	--->density: -1,000000
+
+S³awice Szlacheckie (minXY[(20,062919);(50,308646)], maxXY[(20,090127);(50,333177)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,594840
+	--->density: -1,000000
+
+Strze¿ów Drugi (minXY[(20,029106);(50,371705)], maxXY[(20,047819);(50,397742)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,763600
+	--->density: -1,000000
+
+Strze¿ów Pierwszy (minXY[(20,047432);(50,372376)], maxXY[(20,087999);(50,396558)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,762300
+	--->density: -1,000000
+
+Widnica (minXY[(20,016968);(50,392799)], maxXY[(20,038494);(50,411515)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,521580
+	--->density: -1,000000
+
+Zarogów (minXY[(20,097474);(50,317309)], maxXY[(20,141385);(50,348894)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,958460
+	--->density: -1,000000
+
+Dos³oñce (minXY[(20,196397);(50,335678)], maxXY[(20,246612);(50,355432)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,345620
+	--->density: -1,000000
+
+Góry Miechowskie (minXY[(20,154083);(50,352201)], maxXY[(20,194315);(50,368700)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,600530
+	--->density: -1,000000
+
+gmina Rac³awice (minXY[(20,133891);(50,297862)], maxXY[(20,305328);(50,368700)])
+	--->admin_level: 7
+	--->population: 2487,000000
+	--->area: 59,110700
+	--->density: 42,073600
+
+Dziemiêrzyce (minXY[(20,195366);(50,297862)], maxXY[(20,229945);(50,317189)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,104780
+	--->density: -1,000000
+
+G³upczów (minXY[(20,264359);(50,308863)], maxXY[(20,294113);(50,326465)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,168380
+	--->density: -1,000000
+
+Górka Koœciejowska (minXY[(20,242517);(50,302746)], maxXY[(20,271182);(50,322945)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,785270
+	--->density: -1,000000
+
+Biodry-Kolonia (minXY[(22,402572);(53,325648)], maxXY[(22,438539);(53,340579)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,346950
+	--->density: -1,000000
+
+Janowiczki (minXY[(20,214032);(50,299423)], maxXY[(20,260372);(50,324030)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,525280
+	--->density: -1,000000
+
+Koœciejów (minXY[(20,239472);(50,322218)], maxXY[(20,305328);(50,345801)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 8,341430
+	--->density: -1,000000
+
+Borawskie (minXY[(22,353941);(53,316310)], maxXY[(22,375728);(53,335107)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,052020
+	--->density: -1,000000
+
+Miroszów (minXY[(20,240150);(50,342184)], maxXY[(20,297767);(50,356719)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,404580
+	--->density: -1,000000
+
+Buszków (minXY[(20,286897);(50,366955)], maxXY[(20,317715);(50,402100)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,957800
+	--->density: -1,000000
+
+Dziaduszyce (minXY[(20,248284);(50,367017)], maxXY[(20,276855);(50,389412)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,218190
+	--->density: -1,000000
+
+gmina S³aboszów (minXY[(20,125561);(50,346510)], maxXY[(20,339248);(50,426627)])
+	--->admin_level: 7
+	--->population: 3699,000000
+	--->area: 76,769300
+	--->density: 48,183300
+
+Ilkowice (minXY[(20,209304);(50,372168)], maxXY[(20,255426);(50,395900)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,158510
+	--->density: -1,000000
+
+Jazdowice (minXY[(20,306492);(50,357314)], maxXY[(20,339248);(50,388832)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,213070
+	--->density: -1,000000
+
+Nieszków (minXY[(20,268403);(50,363144)], maxXY[(20,303954);(50,385256)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,372760
+	--->density: -1,000000
+
+Kalina Wielka (minXY[(20,125561);(50,363351)], maxXY[(20,179072);(50,396449)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 8,589690
+	--->density: -1,000000
+
+Kropid³o (minXY[(20,212635);(50,346510)], maxXY[(20,269359);(50,372334)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,675980
+	--->density: -1,000000
+
+Raszówek (minXY[(20,198857);(50,352929)], maxXY[(20,223470);(50,372860)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,331590
+	--->density: -1,000000
+
+Rêdziny-Borek (minXY[(20,156383);(50,363332)], maxXY[(20,183379);(50,379073)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,859690
+	--->density: -1,000000
+
+Rêdziny Zbigalskie (minXY[(20,222913);(50,368110)], maxXY[(20,248360);(50,381335)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,379670
+	--->density: -1,000000
+
+Rzemiêdzice (minXY[(20,245161);(50,386900)], maxXY[(20,275061);(50,416980)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,332220
+	--->density: -1,000000
+
+S³upów (minXY[(20,266936);(50,348627)], maxXY[(20,332920);(50,372738)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,422920
+	--->density: -1,000000
+
+Œladów (minXY[(20,166876);(50,367699)], maxXY[(20,201347);(50,395484)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,666360
+	--->density: -1,000000
+
+Œwiêcice (minXY[(20,209725);(50,389637)], maxXY[(20,258077);(50,419731)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,238910
+	--->density: -1,000000
+
+Zagorzany (minXY[(20,244580);(50,365958)], maxXY[(20,269682);(50,379460)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,795140
+	--->density: -1,000000
+
+Niegowiæ (minXY[(20,215237);(49,921561)], maxXY[(20,247209);(49,945633)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,057920
+	--->density: -1,000000
+
+Bodzanów (minXY[(20,131652);(49,973120)], maxXY[(20,176936);(49,999617)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,168460
+	--->density: -1,000000
+
+Jawczyce (minXY[(20,175836);(49,935849)], maxXY[(20,198019);(49,962367)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,801980
+	--->density: -1,000000
+
+??azany (minXY[(20,136795);(49,932684)], maxXY[(20,185786);(49,958345)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,113960
+	--->density: -1,000000
+
+Nieradowice (minXY[(17,150025);(50,476633)], maxXY[(17,191535);(50,499530)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,829560
+	--->density: -1,000000
+
+Przebieczany (minXY[(20,103605);(49,969231)], maxXY[(20,134426);(49,992573)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,114480
+	--->density: -1,000000
+
+Tomaszkowice (minXY[(20,090190);(49,963841)], maxXY[(20,107336);(49,981044)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,383670
+	--->density: -1,000000
+
+S³awkowice (minXY[(20,123829);(49,921330)], maxXY[(20,167752);(49,946288)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,546740
+	--->density: -1,000000
+
+Szczyg³ów (minXY[(20,139261);(49,968504)], maxXY[(20,167773);(49,976699)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,291130
+	--->density: -1,000000
+
+Tr¹bki (minXY[(20,130802);(49,951895)], maxXY[(20,179525);(49,970190)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,965220
+	--->density: -1,000000
+
+Zarabie (minXY[(20,192720);(49,893396)], maxXY[(20,218399);(49,902465)])
+	--->admin_level: 11
+	--->population: -1,000000
+	--->area: 0,809781
+	--->density: -1,000000
+
+Dyb³a (minXY[(22,397521);(53,565551)], maxXY[(22,457509);(53,586793)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,182000
+	--->density: -1,000000
+
+Bilczyce (minXY[(20,162159);(49,912601)], maxXY[(20,202589);(49,938273)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,618530
+	--->density: -1,000000
+
+Klêczana (minXY[(20,250456);(49,885334)], maxXY[(20,270888);(49,904922)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,473430
+	--->density: -1,000000
+
+Cichawa (minXY[(20,246963);(49,941606)], maxXY[(20,285659);(49,968613)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,890440
+	--->density: -1,000000
+
+Fa³kowice (minXY[(20,154824);(49,893886)], maxXY[(20,183721);(49,914314)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,854850
+	--->density: -1,000000
+
+Gdów (minXY[(20,155837);(49,887146)], maxXY[(20,234595);(49,922350)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 10,247800
+	--->density: -1,000000
+
+Krakuszowice (minXY[(20,216779);(49,941185)], maxXY[(20,251311);(49,965818)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,176420
+	--->density: -1,000000
+
+Liplas (minXY[(20,192365);(49,918964)], maxXY[(20,229910);(49,939265)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,715540
+	--->density: -1,000000
+
+Niewiarów (minXY[(20,243163);(49,924898)], maxXY[(20,275650);(49,944594)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,336130
+	--->density: -1,000000
+
+Ni¿owa (minXY[(20,128164);(49,915088)], maxXY[(20,156487);(49,927012)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,229690
+	--->density: -1,000000
+
+Flesze (minXY[(22,370241);(53,633067)], maxXY[(22,401455);(53,657258)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,901770
+	--->density: -1,000000
+
+Pierzchów (minXY[(20,268374);(49,919915)], maxXY[(20,309689);(49,945916)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,559670
+	--->density: -1,000000
+
+Stryszowa (minXY[(20,174136);(49,876062)], maxXY[(20,200851);(49,889676)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,879030
+	--->density: -1,000000
+
+Œwi¹tniki Dolne (minXY[(20,212482);(49,961526)], maxXY[(20,232834);(49,981089)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,496730
+	--->density: -1,000000
+
+Wiatowice (minXY[(20,192621);(49,935584)], maxXY[(20,226028);(49,961624)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,922530
+	--->density: -1,000000
+
+??ê¿kowice (minXY[(20,274013);(49,958850)], maxXY[(20,316021);(49,972193)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,427570
+	--->density: -1,000000
+
+Godlewo (minXY[(22,423489);(53,522450)], maxXY[(22,453122);(53,541275)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,387680
+	--->density: -1,000000
+
+Wieniec (minXY[(20,277405);(49,892827)], maxXY[(20,311468);(49,933724)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,910320
+	--->density: -1,000000
+
+Gackie (minXY[(22,486387);(53,529481)], maxXY[(22,520279);(53,543410)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,895800
+	--->density: -1,000000
+
+Zalesiany (minXY[(20,194189);(49,867934)], maxXY[(20,222680);(49,876753)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,254400
+	--->density: -1,000000
+
+Zborczyce (minXY[(20,192993);(49,958037)], maxXY[(20,218173);(49,974830)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,937360
+	--->density: -1,000000
+
+Zrêczyce (minXY[(20,188238);(49,873892)], maxXY[(20,263070);(49,901109)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,625010
+	--->density: -1,000000
+
+Wyszków Œl¹ski (minXY[(17,386486);(50,456301)], maxXY[(17,434470);(50,484606)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,726550
+	--->density: -1,000000
+
+Grodkowice (minXY[(20,251532);(49,965332)], maxXY[(20,286742);(49,981594)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,804090
+	--->density: -1,000000
+
+Gruszki (minXY[(20,214569);(49,995543)], maxXY[(20,237809);(50,006311)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,478450
+	--->density: -1,000000
+
+??ysokanie (minXY[(20,252265);(49,978288)], maxXY[(20,277302);(49,992983)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,863310
+	--->density: -1,000000
+
+Grozimy (minXY[(22,415195);(53,539890)], maxXY[(22,448733);(53,559480)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,508400
+	--->density: -1,000000
+
+K³aj (minXY[(20,268015);(49,974850)], maxXY[(20,387566);(50,067935)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 33,893200
+	--->density: -1,000000
+
+Szarów (minXY[(20,254428);(49,988174)], maxXY[(20,291194);(50,028384)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,315140
+	--->density: -1,000000
+
+Targowisko (minXY[(20,273157);(49,967248)], maxXY[(20,322047);(49,997738)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,276410
+	--->density: -1,000000
+
+gmina Niepo³omice (minXY[(20,114770);(49,971313)], maxXY[(20,369968);(50,100196)])
+	--->admin_level: 7
+	--->population: 25607,000000
+	--->area: 96,273400
+	--->density: 265,982000
+
+Niepo³omice (minXY[(20,140728);(50,010304)], maxXY[(20,283069);(50,058486)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 27,400900
+	--->density: -1,000000
+
+Podgrabie (minXY[(20,140728);(50,030350)], maxXY[(20,181138);(50,041660)])
+	--->admin_level: 11
+	--->population: -1,000000
+	--->area: 2,612090
+	--->density: -1,000000
+
+Ochmanów (minXY[(20,114770);(49,991936)], maxXY[(20,140695);(50,006238)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,887270
+	--->density: -1,000000
+
+S³omiróg (minXY[(20,159469);(49,981514)], maxXY[(20,181483);(50,000388)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,269550
+	--->density: -1,000000
+
+Cikowice (minXY[(20,358047);(49,974105)], maxXY[(20,389428);(49,996553)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,108680
+	--->density: -1,000000
+
+Stani¹tki (minXY[(20,170700);(49,993640)], maxXY[(20,218919);(50,021766)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,277610
+	--->density: -1,000000
+
+Suchoraba (minXY[(20,185267);(49,971313)], maxXY[(20,208823);(49,990150)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,971090
+	--->density: -1,000000
+
+Wola Batorska (minXY[(20,227965);(50,022727)], maxXY[(20,324261);(50,086290)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 22,729600
+	--->density: -1,000000
+
+Sielachowskie (minXY[(23,131679);(53,173698)], maxXY[(23,149672);(53,186420)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,055910
+	--->density: -1,000000
+
+Wola Zabierzowska (minXY[(20,318003);(50,055335)], maxXY[(20,369968);(50,100196)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,208080
+	--->density: -1,000000
+
+Zakrzowiec (minXY[(20,150542);(49,994263)], maxXY[(20,182822);(50,010419)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,951340
+	--->density: -1,000000
+
+Wieliczka (minXY[(20,002744);(49,970902)], maxXY[(20,088935);(50,004650)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 13,496300
+	--->density: -1,000000
+
+gmina Wieliczka (minXY[(19,962877);(49,905967)], maxXY[(20,156901);(50,045950)])
+	--->admin_level: 7
+	--->population: 55231,000000
+	--->area: 99,674100
+	--->density: 554,116000
+
+Zabierzów Bocheñski (minXY[(20,277765);(50,046695)], maxXY[(20,341596);(50,097907)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 10,968600
+	--->density: -1,000000
+
+Makowice (minXY[(17,361278);(50,548825)], maxXY[(17,419847);(50,585184)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 11,132300
+	--->density: -1,000000
+
+Byszyce (minXY[(20,001301);(49,905967)], maxXY[(20,023257);(49,931151)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,229930
+	--->density: -1,000000
+
+Chor¹gwica (minXY[(20,081614);(49,945167)], maxXY[(20,104336);(49,967844)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,211610
+	--->density: -1,000000
+
+Czarnochowice (minXY[(20,055302);(49,994608)], maxXY[(20,076315);(50,012719)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,278980
+	--->density: -1,000000
+
+Golkowice (minXY[(19,962877);(49,960018)], maxXY[(19,997986);(49,981170)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,815990
+	--->density: -1,000000
+
+Konopki (minXY[(22,381240);(53,640787)], maxXY[(22,425476);(53,668098)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,917330
+	--->density: -1,000000
+
+Grabówki (minXY[(19,991056);(49,965155)], maxXY[(20,038040);(49,983041)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,643830
+	--->density: -1,000000
+
+KoŸmice Ma³e (minXY[(20,036699);(49,935078)], maxXY[(20,058423);(49,953638)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,885970
+	--->density: -1,000000
+
+Grajów (minXY[(20,084783);(49,917636)], maxXY[(20,127783);(49,945945)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,098200
+	--->density: -1,000000
+
+Jankówka (minXY[(20,055416);(49,913919)], maxXY[(20,077631);(49,935188)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,208450
+	--->density: -1,000000
+
+Pawlikowice (minXY[(20,046556);(49,945201)], maxXY[(20,073193);(49,969636)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,975320
+	--->density: -1,000000
+
+Raciborsko (minXY[(20,030643);(49,922807)], maxXY[(20,090197);(49,949602)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,190580
+	--->density: -1,000000
+
+Kokotów (minXY[(20,067614);(50,007878)], maxXY[(20,111724);(50,032851)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,224850
+	--->density: -1,000000
+
+Ro¿nowa (minXY[(20,053147);(49,967192)], maxXY[(20,066086);(49,974265)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 0,443389
+	--->density: -1,000000
+
+Wólka-Przedmieœcie (minXY[(23,157333);(53,232478)], maxXY[(23,175545);(53,251815)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,895430
+	--->density: -1,000000
+
+KoŸmice Wielkie (minXY[(20,004129);(49,927771)], maxXY[(20,052755);(49,963441)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,056240
+	--->density: -1,000000
+
+Prze³êk (minXY[(17,312689);(50,392695)], maxXY[(17,353810);(50,429325)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,223700
+	--->density: -1,000000
+
+Lednica Górna (minXY[(20,065255);(49,961357)], maxXY[(20,095353);(49,984558)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,812860
+	--->density: -1,000000
+
+Mietniów (minXY[(20,062009);(49,945647)], maxXY[(20,089456);(49,968897)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,102560
+	--->density: -1,000000
+
+Siercza (minXY[(20,020369);(49,962005)], maxXY[(20,054791);(49,979728)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,110650
+	--->density: -1,000000
+
+Strumiany (minXY[(20,079198);(49,997132)], maxXY[(20,106030);(50,014786)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 0,778479
+	--->density: -1,000000
+
+Sygneczów (minXY[(20,000606);(49,959317)], maxXY[(20,037654);(49,974927)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,003170
+	--->density: -1,000000
+
+Chabówka (minXY[(19,909329);(49,572387)], maxXY[(19,954937);(49,599804)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,015960
+	--->density: -1,000000
+
+Œledziejowice (minXY[(20,066606);(49,994193)], maxXY[(20,100134);(50,012336)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,936230
+	--->density: -1,000000
+
+Zabawa (minXY[(20,074854);(49,984333)], maxXY[(20,099768);(49,999967)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,454170
+	--->density: -1,000000
+
+Rabka-Zdrój (minXY[(19,919686);(49,576991)], maxXY[(20,026057);(49,661122)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 36,314900
+	--->density: -1,000000
+
+Radzikowice (minXY[(17,259766);(50,493601)], maxXY[(17,298888);(50,521756)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,484360
+	--->density: -1,000000
+
+Wêgrzce Wielkie (minXY[(20,102222);(50,003105)], maxXY[(20,156901);(50,033159)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,805680
+	--->density: -1,000000
+
+Ponice (minXY[(19,956856);(49,549322)], maxXY[(20,039485);(49,594699)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 14,467500
+	--->density: -1,000000
+
+Rdzawka (minXY[(19,933177);(49,539667)], maxXY[(20,004458);(49,584786)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 12,379000
+	--->density: -1,000000
+
+gmina Nowy Targ (minXY[(19,879396);(49,404078)], maxXY[(20,229346);(49,560140)])
+	--->admin_level: 7
+	--->population: 23458,000000
+	--->area: 207,693000
+	--->density: 112,946000
+
+D³ugopole (minXY[(19,879396);(49,453776)], maxXY[(19,942558);(49,488887)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,806720
+	--->density: -1,000000
+
+Dursztyn (minXY[(20,170070);(49,404078)], maxXY[(20,221313);(49,430277)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,716780
+	--->density: -1,000000
+
+Gronków (minXY[(20,055831);(49,420587)], maxXY[(20,116283);(49,464336)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 11,660500
+	--->density: -1,000000
+
+Wróblówka (minXY[(19,867075);(49,435574)], maxXY[(19,911527);(49,473329)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,744080
+	--->density: -1,000000
+
+Rusocin (minXY[(17,398053);(50,481838)], maxXY[(17,446247);(50,521697)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 8,590450
+	--->density: -1,000000
+
+Klikuszowa (minXY[(19,949836);(49,504010)], maxXY[(20,024845);(49,545808)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 10,141100
+	--->density: -1,000000
+
+Sêkowice (minXY[(17,296985);(50,495727)], maxXY[(17,332018);(50,518806)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,357260
+	--->density: -1,000000
+
+Knurów (minXY[(20,161302);(49,474692)], maxXY[(20,200529);(49,511252)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,913210
+	--->density: -1,000000
+
+Krauszów (minXY[(19,930640);(49,461279)], maxXY[(19,973738);(49,495423)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,942040
+	--->density: -1,000000
+
+Krempachy (minXY[(20,129824);(49,413177)], maxXY[(20,196853);(49,447954)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 10,071500
+	--->density: -1,000000
+
+LudŸmierz (minXY[(19,959209);(49,437624)], maxXY[(19,997682);(49,486551)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,799760
+	--->density: -1,000000
+
+??opuszna (minXY[(20,115447);(49,458338)], maxXY[(20,154185);(49,545501)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 19,255300
+	--->density: -1,000000
+
+Za³uczne (minXY[(19,798013);(49,477719)], maxXY[(19,834260);(49,506710)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,137560
+	--->density: -1,000000
+
+gmina Lipnica Wielka (minXY[(19,527408);(49,446873)], maxXY[(19,652251);(49,587708)])
+	--->admin_level: 7
+	--->population: 5944,000000
+	--->area: 67,354400
+	--->density: 88,249600
+
+Morawczyna (minXY[(19,908660);(49,486807)], maxXY[(19,954305);(49,510254)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,334200
+	--->density: -1,000000
+
+Damienice (minXY[(20,378989);(49,984574)], maxXY[(20,419343);(50,007363)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,559320
+	--->density: -1,000000
+
+Nowa Bia³a (minXY[(20,095385);(49,413781)], maxXY[(20,180971);(49,461974)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 17,376000
+	--->density: -1,000000
+
+Obidowa (minXY[(19,990266);(49,529044)], maxXY[(20,119155);(49,560140)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 21,532100
+	--->density: -1,000000
+
+Ostrowsko (minXY[(20,087997);(49,459431)], maxXY[(20,125268);(49,527378)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 12,137600
+	--->density: -1,000000
+
+Bukowina-Osiedle (minXY[(19,806857);(49,511474)], maxXY[(19,853011);(49,533259)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,130960
+	--->density: -1,000000
+
+Pyzówka (minXY[(19,908573);(49,504856)], maxXY[(19,956964);(49,525970)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,496480
+	--->density: -1,000000
+
+Harkabuz (minXY[(19,792147);(49,527667)], maxXY[(19,848557);(49,554487)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,457590
+	--->density: -1,000000
+
+Szlembark (minXY[(20,197106);(49,465667)], maxXY[(20,228976);(49,501201)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,590040
+	--->density: -1,000000
+
+Waksmund (minXY[(20,063205);(49,455235)], maxXY[(20,119489);(49,544520)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 15,268500
+	--->density: -1,000000
+
+Podsarnie (minXY[(19,756659);(49,529229)], maxXY[(19,811388);(49,560619)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 8,858700
+	--->density: -1,000000
+
+Nowy Targ (minXY[(19,982509);(49,444038)], maxXY[(20,106006);(49,534480)])
+	--->admin_level: 7
+	--->population: 33672,000000
+	--->area: 51,077600
+	--->density: 659,232000
+
+gmina Czorsztyn (minXY[(20,223498);(49,390420)], maxXY[(20,436988);(49,496922)])
+	--->admin_level: 7
+	--->population: 7525,000000
+	--->area: 62,159500
+	--->density: 121,059000
+
+Czorsztyn (minXY[(20,287046);(49,419790)], maxXY[(20,335144);(49,444279)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,542270
+	--->density: -1,000000
+
+Huba (minXY[(20,223498);(49,473419)], maxXY[(20,255651);(49,494141)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,484200
+	--->density: -1,000000
+
+Kluszkowce (minXY[(20,279492);(49,435794)], maxXY[(20,338483);(49,491646)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 11,411500
+	--->density: -1,000000
+
+Maniowy (minXY[(20,223614);(49,437191)], maxXY[(20,302995);(49,496922)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 20,119100
+	--->density: -1,000000
+
+Mizerna (minXY[(20,278201);(49,448072)], maxXY[(20,312130);(49,492173)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,685150
+	--->density: -1,000000
+
+Zaœcianek (minXY[(23,153278);(53,251222)], maxXY[(23,164398);(53,259080)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 0,428431
+	--->density: -1,000000
+
+Sromowce Ni¿ne (minXY[(20,377996);(49,390420)], maxXY[(20,436988);(49,419213)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,567350
+	--->density: -1,000000
+
+Sromowce Wy¿ne (minXY[(20,322523);(49,398220)], maxXY[(20,380833);(49,428708)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,350010
+	--->density: -1,000000
+
+gmina Czarny Dunajec (minXY[(19,739412);(49,326415)], maxXY[(19,954361);(49,532057)])
+	--->admin_level: 7
+	--->population: 22065,000000
+	--->area: 217,264000
+	--->density: 101,558000
+
+Chocho³ów (minXY[(19,790728);(49,347535)], maxXY[(19,843776);(49,392167)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 12,767800
+	--->density: -1,000000
+
+Ciche (minXY[(19,829559);(49,326415)], maxXY[(19,900140);(49,420830)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 26,486000
+	--->density: -1,000000
+
+Czarny Dunajec (minXY[(19,793698);(49,411110)], maxXY[(19,885015);(49,482798)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 37,985800
+	--->density: -1,000000
+
+Rokiciny Podhalañskie (minXY[(19,901902);(49,548235)], maxXY[(19,940594);(49,585041)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,657190
+	--->density: -1,000000
+
+Czerwienne (minXY[(19,885134);(49,351852)], maxXY[(19,944302);(49,406943)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 10,802800
+	--->density: -1,000000
+
+Wola Kurowska (minXY[(20,680635);(49,690932)], maxXY[(20,713430);(49,704596)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,528100
+	--->density: -1,000000
+
+Dzia³ (minXY[(19,882136);(49,474545)], maxXY[(19,918796);(49,504859)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,084070
+	--->density: -1,000000
+
+Koniówka (minXY[(19,788938);(49,386399)], maxXY[(19,837315);(49,405005)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,205140
+	--->density: -1,000000
+
+Piekielnik (minXY[(19,739412);(49,410688)], maxXY[(19,810151);(49,506902)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 30,198600
+	--->density: -1,000000
+
+Pieni¹¿kowice (minXY[(19,858693);(49,480648)], maxXY[(19,912713);(49,520892)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 8,568220
+	--->density: -1,000000
+
+Piotrowice Nyskie (minXY[(17,132676);(50,392979)], maxXY[(17,171128);(50,426016)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,702810
+	--->density: -1,000000
+
+Podczerwone (minXY[(19,789580);(49,394647)], maxXY[(19,845106);(49,426396)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 8,604070
+	--->density: -1,000000
+
+Podszkle (minXY[(19,752447);(49,500733)], maxXY[(19,831762);(49,532057)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 13,116300
+	--->density: -1,000000
+
+Kiczory (minXY[(19,562008);(49,524084)], maxXY[(19,601316);(49,549966)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,735030
+	--->density: -1,000000
+
+Lipnica Wielka (minXY[(19,527408);(49,446873)], maxXY[(19,652251);(49,587708)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 63,619400
+	--->density: -1,000000
+
+Chy¿ne (minXY[(19,631386);(49,386422)], maxXY[(19,746331);(49,461238)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 31,008200
+	--->density: -1,000000
+
+Lipnica Ma³a (minXY[(19,565153);(49,474370)], maxXY[(19,666253);(49,567908)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 27,826300
+	--->density: -1,000000
+
+Ratu³ów (minXY[(19,873665);(49,339839)], maxXY[(19,925976);(49,395510)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 15,234300
+	--->density: -1,000000
+
+Wola Marcinkowska (minXY[(20,591912);(49,653547)], maxXY[(20,612953);(49,676160)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,793290
+	--->density: -1,000000
+
+Bartkowa-Posadowa (minXY[(20,726130);(49,746270)], maxXY[(20,809579);(49,781417)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 10,762400
+	--->density: -1,000000
+
+gmina Gródek nad Dunajcem (minXY[(20,645962);(49,694144)], maxXY[(20,828398);(49,806853)])
+	--->admin_level: 7
+	--->population: 9205,000000
+	--->area: 88,244000
+	--->density: 104,313000
+
+Stare Bystre (minXY[(19,858119);(49,397114)], maxXY[(19,954361);(49,460057)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 21,129200
+	--->density: -1,000000
+
+Orawka (minXY[(19,686566);(49,493854)], maxXY[(19,758266);(49,529420)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 10,894000
+	--->density: -1,000000
+
+W³osienica (minXY[(19,301675);(50,000715)], maxXY[(19,350324);(50,029427)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,694540
+	--->density: -1,000000
+
+Podwilk (minXY[(19,680555);(49,510919)], maxXY[(19,764932);(49,578754)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 31,442800
+	--->density: -1,000000
+
+Ratnowice (minXY[(17,102441);(50,405808)], maxXY[(17,144838);(50,429664)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,196830
+	--->density: -1,000000
+
+Zubrzyca Dolna (minXY[(19,632762);(49,495810)], maxXY[(19,688500);(49,551286)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 15,005800
+	--->density: -1,000000
+
+Witowice Górne (minXY[(20,631223);(49,762269)], maxXY[(20,670548);(49,779063)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,515200
+	--->density: -1,000000
+
+Zubrzyca Górna (minXY[(19,582012);(49,545083)], maxXY[(19,688846);(49,623723)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 37,834800
+	--->density: -1,000000
+
+Rysiowice (minXY[(17,194548);(50,506685)], maxXY[(17,228656);(50,542570)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,045860
+	--->density: -1,000000
+
+gmina Raba Wy¿na (minXY[(19,756659);(49,511474)], maxXY[(19,970384);(49,637591)])
+	--->admin_level: 7
+	--->population: 14517,000000
+	--->area: 89,004700
+	--->density: 163,104000
+
+Skawa (minXY[(19,862752);(49,581775)], maxXY[(19,929181);(49,637591)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 20,493300
+	--->density: -1,000000
+
+Sarnowice (minXY[(17,116919);(50,473989)], maxXY[(17,158295);(50,491232)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,052110
+	--->density: -1,000000
+
+Bielanka (minXY[(19,850009);(49,515109)], maxXY[(19,904150);(49,538539)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,051010
+	--->density: -1,000000
+
+Raba Wy¿na (minXY[(19,837048);(49,524933)], maxXY[(19,918803);(49,583975)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 22,151900
+	--->density: -1,000000
+
+Starowice (minXY[(17,150778);(50,494412)], maxXY[(17,185215);(50,521585)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,564450
+	--->density: -1,000000
+
+Spytkowice (minXY[(19,751579);(49,543504)], maxXY[(19,874898);(49,599330)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 32,193300
+	--->density: -1,000000
+
+Bañska Ni¿na (minXY[(19,979377);(49,394549)], maxXY[(20,022216);(49,418107)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,858730
+	--->density: -1,000000
+
+gmina Szaflary (minXY[(19,920196);(49,374420)], maxXY[(20,066263);(49,460724)])
+	--->admin_level: 7
+	--->population: 10809,000000
+	--->area: 54,271200
+	--->density: 199,166000
+
+Bañska Wy¿na (minXY[(19,942129);(49,374420)], maxXY[(19,999654);(49,411815)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,576760
+	--->density: -1,000000
+
+Bór (minXY[(20,049288);(49,425330)], maxXY[(20,066263);(49,444785)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,672310
+	--->density: -1,000000
+
+Suszkowice (minXY[(17,221328);(50,472056)], maxXY[(17,248255);(50,491978)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,354390
+	--->density: -1,000000
+
+Maruszyna (minXY[(19,920196);(49,399662)], maxXY[(20,003966);(49,441374)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 15,410700
+	--->density: -1,000000
+
+Mroczkowa (minXY[(17,322922);(50,568049)], maxXY[(17,356112);(50,589836)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,043330
+	--->density: -1,000000
+
+Szaflary (minXY[(19,998941);(49,395560)], maxXY[(20,054671);(49,446923)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 14,797700
+	--->density: -1,000000
+
+Sofipol (minXY[(23,496449);(53,132107)], maxXY[(23,539597);(53,157421)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,395280
+	--->density: -1,000000
+
+Skrzypne (minXY[(19,932494);(49,384073)], maxXY[(19,972475);(49,410522)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,692290
+	--->density: -1,000000
+
+Falsztyn (minXY[(20,248766);(49,412271)], maxXY[(20,294207);(49,441092)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,168180
+	--->density: -1,000000
+
+Kamionka Nowa (minXY[(22,771229);(53,808382)], maxXY[(22,826465);(53,837961)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,760250
+	--->density: -1,000000
+
+Frydman (minXY[(20,178293);(49,416967)], maxXY[(20,267514);(49,461021)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 19,960600
+	--->density: -1,000000
+
+Be³dno (minXY[(20,381353);(49,791542)], maxXY[(20,399549);(49,818451)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,231540
+	--->density: -1,000000
+
+Kacwin (minXY[(20,231570);(49,343295)], maxXY[(20,326216);(49,393373)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 22,562300
+	--->density: -1,000000
+
+??apszanka (minXY[(20,166540);(49,337728)], maxXY[(20,219441);(49,375552)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,923250
+	--->density: -1,000000
+
+??apsze Ni¿ne (minXY[(20,208289);(49,346445)], maxXY[(20,264013);(49,418431)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 19,976500
+	--->density: -1,000000
+
+??apsze Wy¿ne (minXY[(20,152817);(49,355725)], maxXY[(20,224591);(49,407593)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 17,083900
+	--->density: -1,000000
+
+Ha³uszowa (minXY[(20,330986);(49,419469)], maxXY[(20,373713);(49,439020)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,356190
+	--->density: -1,000000
+
+Niedzica (minXY[(20,255838);(49,374283)], maxXY[(20,337471);(49,434455)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 20,943200
+	--->density: -1,000000
+
+Bochnia (minXY[(20,386118);(49,937730)], maxXY[(20,472605);(50,011733)])
+	--->admin_level: 7
+	--->population: 30219,000000
+	--->area: 29,867800
+	--->density: 1011,760000
+
+gmina Bochnia (minXY[(20,300194);(49,881352)], maxXY[(20,533325);(50,103923)])
+	--->admin_level: 7
+	--->population: 19305,000000
+	--->area: 118,146000
+	--->density: 163,399000
+
+Trybsz (minXY[(20,111698);(49,385592)], maxXY[(20,175271);(49,428958)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 12,174200
+	--->density: -1,000000
+
+Pniewie (minXY[(17,388637);(50,612702)], maxXY[(17,415543);(50,639780)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,744620
+	--->density: -1,000000
+
+Grywa³d (minXY[(20,343346);(49,436137)], maxXY[(20,401282);(49,487066)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 16,007200
+	--->density: -1,000000
+
+Baczków (minXY[(20,435321);(50,015968)], maxXY[(20,461915);(50,046178)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,118400
+	--->density: -1,000000
+
+Bohdan (minXY[(23,042619);(53,198519)], maxXY[(23,069596);(53,229969)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,296830
+	--->density: -1,000000
+
+Kroœcienko nad Dunajcem (minXY[(20,392621);(49,411907)], maxXY[(20,474207);(49,472380)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 25,314500
+	--->density: -1,000000
+
+Kroœnica (minXY[(20,322050);(49,437558)], maxXY[(20,358662);(49,490257)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 7,979930
+	--->density: -1,000000
+
+Tylka (minXY[(20,370289);(49,417636)], maxXY[(20,396583);(49,439122)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,463860
+	--->density: -1,000000
+
+Ochotnica Dolna (minXY[(20,246573);(49,486921)], maxXY[(20,391437);(49,573189)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 53,399900
+	--->density: -1,000000
+
+Bessów (minXY[(20,491647);(50,064322)], maxXY[(20,517973);(50,086448)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,750460
+	--->density: -1,000000
+
+Koziñce (minXY[(22,960952);(53,229199)], maxXY[(23,011214);(53,251950)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,102570
+	--->density: -1,000000
+
+Ochotnica Górna (minXY[(20,145397);(49,490090)], maxXY[(20,294993);(49,561214)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 52,487200
+	--->density: -1,000000
+
+Biertowice (minXY[(19,777484);(49,857340)], maxXY[(19,822896);(49,881530)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,905070
+	--->density: -1,000000
+
+Tylmanowa (minXY[(20,348485);(49,464169)], maxXY[(20,470088);(49,530625)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 35,184600
+	--->density: -1,000000
+
+Cerekiew (minXY[(20,494457);(50,071886)], maxXY[(20,529060);(50,103923)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,947610
+	--->density: -1,000000
+
+Jaworki (minXY[(20,532445);(49,376106)], maxXY[(20,617062);(49,466314)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 35,230400
+	--->density: -1,000000
+
+Szczawnica (minXY[(20,441333);(49,403963)], maxXY[(20,554224);(49,473142)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 32,897800
+	--->density: -1,000000
+
+Szlachtowa (minXY[(20,503262);(49,387028)], maxXY[(20,572966);(49,467342)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 19,767000
+	--->density: -1,000000
+
+Gaw³ów (minXY[(20,450903);(50,011393)], maxXY[(20,482499);(50,041147)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,598770
+	--->density: -1,000000
+
+Nieszkowice Ma³e (minXY[(20,303805);(49,924484)], maxXY[(20,349525);(49,949062)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,718720
+	--->density: -1,000000
+
+??apczyca (minXY[(20,351676);(49,936868)], maxXY[(20,401388);(49,978029)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 11,514600
+	--->density: -1,000000
+
+Moszczenica (minXY[(20,332903);(49,958443)], maxXY[(20,359650);(49,977811)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,417000
+	--->density: -1,000000
+
+Bieñkowice (minXY[(20,474820);(50,092380)], maxXY[(20,509248);(50,111463)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,730020
+	--->density: -1,000000
+
+Nieprzeœnia (minXY[(20,357256);(49,903815)], maxXY[(20,387436);(49,927786)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,831660
+	--->density: -1,000000
+
+Gaw³ówek (minXY[(20,442031);(50,042536)], maxXY[(20,467178);(50,058740)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,702430
+	--->density: -1,000000
+
+Cibory Ga³eckie (minXY[(22,549259);(53,103836)], maxXY[(22,580889);(53,136692)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,843370
+	--->density: -1,000000
+
+Nieszkowice Wielkie (minXY[(20,392824);(49,896138)], maxXY[(20,422925);(49,925096)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,186380
+	--->density: -1,000000
+
+Ispina (minXY[(20,339907);(50,096051)], maxXY[(20,409490);(50,122975)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 8,417330
+	--->density: -1,000000
+
+Ostrów Szlachecki (minXY[(20,471933);(50,022391)], maxXY[(20,503191);(50,052164)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,325100
+	--->density: -1,000000
+
+Proszówki (minXY[(20,409194);(49,987795)], maxXY[(20,456750);(50,021457)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,034240
+	--->density: -1,000000
+
+S³omka (minXY[(20,448058);(50,007543)], maxXY[(20,478296);(50,018133)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 0,919981
+	--->density: -1,000000
+
+Stradomka (minXY[(20,300194);(49,912605)], maxXY[(20,321886);(49,932416)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,575410
+	--->density: -1,000000
+
+Wola Nieszkowska (minXY[(20,366583);(49,881352)], maxXY[(20,400463);(49,908778)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,937220
+	--->density: -1,000000
+
+Zatoka (minXY[(20,497540);(50,032384)], maxXY[(20,533325);(50,053316)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,981200
+	--->density: -1,000000
+
+gmina Drwinia (minXY[(20,339907);(50,000459)], maxXY[(20,512190);(50,143513)])
+	--->admin_level: 7
+	--->population: 6513,000000
+	--->area: 108,336000
+	--->density: 60,118300
+
+Drwinia (minXY[(20,350370);(50,070551)], maxXY[(20,462461);(50,114347)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 18,224600
+	--->density: -1,000000
+
+Ulanowice (minXY[(17,183054);(50,470687)], maxXY[(17,228260);(50,498451)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,788700
+	--->density: -1,000000
+
+Dziewin (minXY[(20,363506);(50,000459)], maxXY[(20,482098);(50,095812)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 42,279200
+	--->density: -1,000000
+
+Cibory-Ko³aczki (minXY[(22,573953);(53,103053)], maxXY[(22,588708);(53,118919)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 0,843283
+	--->density: -1,000000
+
+Wola Drwiñska (minXY[(20,456371);(50,084417)], maxXY[(20,480956);(50,113473)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,655470
+	--->density: -1,000000
+
+Wy¿yce (minXY[(20,473530);(50,074669)], maxXY[(20,496596);(50,100354)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,764050
+	--->density: -1,000000
+
+Wójcice (minXY[(17,195106);(50,445277)], maxXY[(17,257873);(50,476857)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 10,132000
+	--->density: -1,000000
+
+gmina Lipnica Murowana (minXY[(20,458239);(49,797451)], maxXY[(20,580472);(49,897847)])
+	--->admin_level: 7
+	--->population: 5574,000000
+	--->area: 60,298400
+	--->density: 92,440200
+
+Borówna (minXY[(20,495608);(49,880254)], maxXY[(20,557285);(49,897847)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,191900
+	--->density: -1,000000
+
+Zwanowice (minXY[(17,142816);(50,380158)], maxXY[(17,191193);(50,400179)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,442320
+	--->density: -1,000000
+
+gmina Kamiennik (minXY[(17,061310);(50,515501)], maxXY[(17,244594);(50,616351)])
+	--->admin_level: 7
+	--->population: 3630,000000
+	--->area: 89,394800
+	--->density: 40,606400
+
+Lipnica Murowana (minXY[(20,508498);(49,837576)], maxXY[(20,530512);(49,882867)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,420950
+	--->density: -1,000000
+
+Rajbrot (minXY[(20,458239);(49,797451)], maxXY[(20,534622);(49,848873)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 22,165000
+	--->density: -1,000000
+
+Wieruszyce (minXY[(20,305397);(49,862119)], maxXY[(20,333106);(49,877987)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,062360
+	--->density: -1,000000
+
+gmina ??apanów (minXY[(20,232478);(49,805589)], maxXY[(20,378051);(49,918865)])
+	--->admin_level: 7
+	--->population: 7841,000000
+	--->area: 71,704200
+	--->density: 109,352000
+
+Boczów (minXY[(20,277439);(49,835774)], maxXY[(20,310044);(49,855431)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,977740
+	--->density: -1,000000
+
+Palczowice (minXY[(19,450255);(49,994125)], maxXY[(19,478868);(50,017876)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,295040
+	--->density: -1,000000
+
+Chrostowa (minXY[(20,285918);(49,892310)], maxXY[(20,326344);(49,918865)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,038310
+	--->density: -1,000000
+
+Kamionka Stara (minXY[(22,790251);(53,799354)], maxXY[(22,845021);(53,823206)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,425950
+	--->density: -1,000000
+
+Cichawka (minXY[(20,322836);(49,868729)], maxXY[(20,378051);(49,883911)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,451250
+	--->density: -1,000000
+
+Okulice (minXY[(20,515915);(50,049918)], maxXY[(20,544933);(50,069086)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,401370
+	--->density: -1,000000
+
+Kêpanów (minXY[(20,243578);(49,826133)], maxXY[(20,268646);(49,844994)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,288020
+	--->density: -1,000000
+
+Siestrzechowice (minXY[(17,254266);(50,420733)], maxXY[(17,293535);(50,457977)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 5,365760
+	--->density: -1,000000
+
+??apanów (minXY[(20,255396);(49,853977)], maxXY[(20,301634);(49,875069)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,336620
+	--->density: -1,000000
+
+Sobolów (minXY[(20,317549);(49,881349)], maxXY[(20,377651);(49,914867)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 9,790950
+	--->density: -1,000000
+
+Skorochów (minXY[(17,271844);(50,468391)], maxXY[(17,316531);(50,486882)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,376830
+	--->density: -1,000000
+
+Ubrze¿ (minXY[(20,310648);(49,846919)], maxXY[(20,333801);(49,864112)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 1,926980
+	--->density: -1,000000
+
+Go³kowice Górne (minXY[(20,559640);(49,527471)], maxXY[(20,598846);(49,549867)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,164540
+	--->density: -1,000000
+
+Wola Wieruszycka (minXY[(20,299964);(49,871253)], maxXY[(20,328576);(49,890661)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 2,576260
+	--->density: -1,000000
+
+Skrzynka (minXY[(20,113561);(49,871784)], maxXY[(20,147825);(49,889644)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,097410
+	--->density: -1,000000
+
+gmina Nowy Wiœnicz (minXY[(20,380457);(49,840834)], maxXY[(20,568769);(49,952583)])
+	--->admin_level: 7
+	--->population: 13563,000000
+	--->area: 82,152700
+	--->density: 165,095000
+
+Kopaliny (minXY[(20,409638);(49,927095)], maxXY[(20,462887);(49,942866)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,326910
+	--->density: -1,000000
+
+Królówka (minXY[(20,380457);(49,849153)], maxXY[(20,453683);(49,905049)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 17,081500
+	--->density: -1,000000
+
+Trzycierz (minXY[(20,792991);(49,668876)], maxXY[(20,823920);(49,693465)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,875540
+	--->density: -1,000000
+
+Leksandrowa (minXY[(20,442702);(49,890687)], maxXY[(20,489185);(49,915880)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,113560
+	--->density: -1,000000
+
+Pakos³awice (minXY[(17,346353);(50,535566)], maxXY[(17,397531);(50,558040)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 6,398220
+	--->density: -1,000000
+
+Muchówka (minXY[(20,425233);(49,840834)], maxXY[(20,476585);(49,871374)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 8,748390
+	--->density: -1,000000
+
+Reñska Wieœ (minXY[(17,316626);(50,537442)], maxXY[(17,355082);(50,569299)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,817840
+	--->density: -1,000000
+
+Nowy Wiœnicz (minXY[(20,428576);(49,901311)], maxXY[(20,473185);(49,928885)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,970000
+	--->density: -1,000000
+
+Olchawa (minXY[(20,416568);(49,904195)], maxXY[(20,451705);(49,933396)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,230850
+	--->density: -1,000000
+
+Rzymiany (minXY[(17,270622);(50,556380)], maxXY[(17,307482);(50,582317)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,553100
+	--->density: -1,000000
+
+Po³om Du¿y (minXY[(20,446541);(49,870697)], maxXY[(20,487441);(49,896157)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 4,646500
+	--->density: -1,000000
+
+Kierlikówka (minXY[(20,359961);(49,810598)], maxXY[(20,393623);(49,835445)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,539090
+	--->density: -1,000000
+
+Stary Wiœnicz (minXY[(20,447100);(49,907653)], maxXY[(20,511655);(49,946173)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 10,810000
+	--->density: -1,000000
+
+Strobice (minXY[(17,337820);(50,524554)], maxXY[(17,377489);(50,541345)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,067130
+	--->density: -1,000000
+
+powiat strzelecki (minXY[(18,075655);(50,356569)], maxXY[(18,616259);(50,704532)])
+	--->admin_level: 6
+	--->population: 76079,000000
+	--->area: 744,107000
+	--->density: 102,242000
+
+Wiœnicz Ma³y (minXY[(20,457957);(49,932145)], maxXY[(20,488739);(49,952583)])
+	--->admin_level: 8
+	--->population: -1,000000
+	--->area: 3,255990
+	--->density: -1,000000
+

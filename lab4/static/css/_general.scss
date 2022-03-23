@@ -1,0 +1,230 @@
+@font-face {
+  font-family: "gotham";
+  src: url("../fonts/gotham-bold/gothambold1.woff") format("woff");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "gotham";
+  src: url("../fonts/gotham-medium-regular/gotham-medium-webfont.woff")
+    format("woff");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "gotham";
+  src: url("../fonts/gotham-book/GothamBook.woff") format("woff");
+  font-weight: 400;
+}
+
+body {
+  font-family: "gotham";
+  font-weight: 400;
+  font-size: 16px;
+  background-color: #303030;
+  color: #f1f1f1;
+}
+
+button {
+  transition: all 500ms ease-out;
+  font-family: "lato";
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.container {
+  max-width: 1400px;
+  padding: 20px 30px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 550px;
+  margin: 0 0 60px 0;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 20px 20px;
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    padding: 20px 10px;
+  }
+}
+
+.title {
+  font-size: 64px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.subtitle {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.subsubtitle {
+  font-size: 16px;
+
+  &--blue {
+    color: #48c1e9;
+  }
+
+  &--yellow {
+    color: #ffdd99;
+  }
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 32px;
+  }
+
+  .subtitle {
+    font-size: 20px;
+  }
+}
+
+.descr {
+  line-height: 22px;
+}
+
+@mixin hideTapHighlightColor() {
+  //Prevent highlight colour when element is tapped
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+@mixin hardwareAccel() {
+  //Improve performance on mobile/tablet devices
+  transform: translateZ(0);
+}
+
+@mixin improveAntiAlias() {
+  //Improve aliasing on mobile/tablet devices
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+@keyframes wobble-top {
+  16.65% {
+    transform: skew(-12deg);
+  }
+
+  33.3% {
+    transform: skew(10deg);
+  }
+
+  49.95% {
+    transform: skew(-6deg);
+  }
+
+  66.6% {
+    transform: skew(4deg);
+  }
+
+  83.25% {
+    transform: skew(-2deg);
+  }
+
+  100% {
+    transform: skew(0);
+  }
+}
+
+.button {
+  padding: 15px 35px;
+  font-size: 22px;
+  text-transform: uppercase;
+  border-radius: 5px;
+  color: #ddd;
+  border-radius: 10px;
+  transition: all 350ms ease-out;
+  font-weight: 700;
+  letter-spacing: 10px;
+
+  @include hideTapHighlightColor();
+  @include hardwareAccel();
+  @include improveAntiAlias();
+  transform-origin: 0 100%;
+  box-shadow: -1px 3px 5px 0px rgba(0, 0, 0, 0.75);
+
+  &--orange {
+    background-color: #d84e4e;
+
+    &:hover {
+      background-color: #e2b317;
+    }
+  }
+
+  &--blue {
+    background-color: #5585a2;
+    border-bottom: 2px solid #48738d;
+
+    &:hover {
+      background-color: #447491;
+      border-bottom: 2px solid #37627c;
+    }
+  }
+
+  &--green {
+    background-color: #96b92c;
+    border-bottom: 2px solid #7c9925;
+
+    &:hover {
+      background-color: #85a81b;
+      border-bottom: 2px solid #6b8814;
+    }
+  }
+
+  &--red {
+    background-color: #f72b3b;
+    border-bottom: 2px solid #cc2634;
+
+    &:hover {
+      background-color: #e61a2a;
+      border-bottom: 2px solid #bb1523;
+    }
+  }
+
+  &:hover {
+    color: #fff;
+    animation-name: wobble-top;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+  }
+}
+
+@media (max-width: 500px) {
+  .button {
+    padding: 10px 15px;
+  }
+}
+
+.exercice {
+  font-size: 20px;
+  font-weight: 500;
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__title {
+    margin: 0 0 20px 0;
+  }
+
+  &__list {
+    text-align: left;
+    margin: 10px 0 0 0;
+  }
+}
